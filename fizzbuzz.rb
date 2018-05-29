@@ -8,4 +8,3 @@ end
 elsif int % 15 == 0 #if the number int is divisible by 5
   "FizzBuzz"
 end
-
