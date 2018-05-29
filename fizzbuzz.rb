@@ -3,9 +3,9 @@ def fizzbuzz(int)
   "Fizz" # Go fizz
   elsif int % 5 == 0 #if the number int is divisible by 5
   "Buzz"
-elsif int % 15 == 0 
+  elsif int % 15 == 0
   "FizzBuzz"
-  else int !(nt % 3 == 0 || int % 5 == 0)
+  else !(int % 3 == 0 || int % 5 == 0)
   returns nil
   end
 end
